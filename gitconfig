@@ -1,0 +1,8 @@
+credential.helper=osxkeychain
+alias.co=checkout
+alias.ps=push
+alias.pl=pull
+alias.cb=checkout -b
+alias.cm=commit -am
+alias.a=add .
+alias.ss=status
