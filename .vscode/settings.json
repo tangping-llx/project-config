@@ -12,5 +12,5 @@
   "scss.validate": false,
   "editor.formatOnPaste": true,
   "stylelint.enable": true,
-  "stylelint.validate": ["css", "less"]
+  "stylelint.validate": ["css", "less", "scss"]
 }

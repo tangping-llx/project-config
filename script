@@ -1,1 +1,1 @@
-npm i @antfu/eslint-config eslint eslint-plugin-vue stylelint stylelint-config-standard typescript
+npm i @antfu/eslint-config eslint eslint-plugin-vue stylelint stylelint-config-standard typescript -D

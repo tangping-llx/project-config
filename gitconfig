@@ -6,3 +6,12 @@ alias.cb=checkout -b
 alias.cm=commit -am
 alias.a=add .
 alias.ss=status
+
+git config --global alias.co checkout
+git config --global alias.ps push
+git config --global alias.pl pull
+git config --global alias.cb "checkout -b"
+git config --global alias.cm "commit -am"
+git config --global alias.a "add ."
+git config --global alias.ss status
+git config --global credential.helper osxkeychain
